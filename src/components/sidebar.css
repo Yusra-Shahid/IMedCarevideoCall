@@ -1,0 +1,25 @@
+.patient_info{
+    width: 500px;
+    height: 150px;
+    /* background-color: aqua; */
+    margin-top: 30px;
+    padding-left: 10px;
+}
+.ask{
+    width: 240px;
+    height: 30px;
+    /* background-color: aqua; */
+    padding-top: 20px;
+}
+.Patient_details h12{
+    font-size: large;
+    color:rgba(73, 124, 245, 0.979);
+}
+.Patient_details h13{
+    font-size: large;
+    color:rgba(73, 124, 245, 0.979);
+}
+.Patient_details h14{
+    font-size: large;
+    color:rgba(73, 124, 245, 0.979);
+}
