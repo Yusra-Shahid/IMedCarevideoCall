@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/IMedCarevideoCall/static/css/main.c570a7af.chunk.css",
+    "main.js": "/IMedCarevideoCall/static/js/main.e5ef44fc.chunk.js",
+    "main.js.map": "/IMedCarevideoCall/static/js/main.e5ef44fc.chunk.js.map",
+    "runtime-main.js": "/IMedCarevideoCall/static/js/runtime-main.c266c973.js",
+    "runtime-main.js.map": "/IMedCarevideoCall/static/js/runtime-main.c266c973.js.map",
+    "static/js/2.f4007613.chunk.js": "/IMedCarevideoCall/static/js/2.f4007613.chunk.js",
+    "static/js/2.f4007613.chunk.js.map": "/IMedCarevideoCall/static/js/2.f4007613.chunk.js.map",
+    "index.html": "/IMedCarevideoCall/index.html",
+    "static/css/main.c570a7af.chunk.css.map": "/IMedCarevideoCall/static/css/main.c570a7af.chunk.css.map",
+    "static/js/2.f4007613.chunk.js.LICENSE.txt": "/IMedCarevideoCall/static/js/2.f4007613.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c266c973.js",
+    "static/js/2.f4007613.chunk.js",
+    "static/css/main.c570a7af.chunk.css",
+    "static/js/main.e5ef44fc.chunk.js"
+  ]
+}
